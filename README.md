@@ -1,2 +1,1 @@
-# leetcode-selected-questions
-This is a practice for selected LeetCode questions
+This is practice for selected LeetCode questions.
